@@ -1,0 +1,6 @@
+x=int(input("enter the first number"))
+y=int(input("enter the second number"))
+print("first number is greater than the second number")
+print(x>y)
+print ("\nfirst  number is lesser than the second number")
+print(x<y)

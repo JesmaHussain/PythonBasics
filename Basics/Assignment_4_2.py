@@ -1,0 +1,7 @@
+message=input("enter the message")
+print("\n","the message to uppercase:",message.upper())
+print("\n","the message to lowercase:",message.lower())
+print("\n","the first letter in the message:",message[0])
+print("\n","the first letter in the message:",message[-1])
+new_message=message.replace(' ','_')
+print("\n","after the replace:",new_message)
